@@ -1,0 +1,12 @@
+adium-theme-ubuntu==0.3.4
+alembic==0.8.2.dev0
+click==7.1.2
+Flask==1.1.2
+itsdangerous==1.1.0
+Jinja2==2.11.2
+Mako==1.0.3
+MarkupSafe==0.23
+psycopg2==2.8.6
+SQLAlchemy==1.0.11
+unity-lens-photos==1.0
+Werkzeug==1.0.1
